@@ -121,7 +121,7 @@ https://youtu.be/bchyzg-uC8c
    Рисунок Б.1 — Результат роботи коду при введенні некоректної кількості параметрів    Рисунок Б.2 — Результат роботи коду при введенні некоректних значень параметрів    Рисунок Б.3 — Результа роботи коду при коректних параметрах 
   
 ДОДАТОК В
-Програмний код В.1 {pzpi-23-5-vysotskyi-ihor-task1} GitHub …
+Програмний код В.1 {pzpi-23-5-vysotskyi-ihor-task1} GitHub https://github.com/NureVysotskyiIhor/smp-pzpi-23-5-vysotskyi-ihor/blob/main/Pract1/smp-pzpi-23-5-vysotskyi-ihor-pract1-code/pzpi-23-5-vysotskyi-ihor-task1 
 38.	if ! [[ $heightInput =~ ^[0-9]+$ && $widthInput =~ ^[0-9]+$ ]] || ((heightInput < 1 || widthInput < 1)); then
 39.	    echo "Помилка: аргументи повинні бути додатніми цілими числами." >&2
 40.	    exit 1
@@ -133,7 +133,7 @@ https://youtu.be/bchyzg-uC8c
 46.	    echo "Помилка: мінімальні значення — 7 для обох параметрів." >&2
 47.	    exit 1
 48.	fi
- В.2 {pzpi-23-5-vysotskyi-ihor-task1} GitHub … 
+ В.2 {pzpi-23-5-vysotskyi-ihor-task1} GitHub https://github.com/NureVysotskyiIhor/smp-pzpi-23-5-vysotskyi-ihor/blob/main/Pract1/smp-pzpi-23-5-vysotskyi-ihor-pract1-code/pzpi-23-5-vysotskyi-ihor-task1 
 49.	renderLayer() { 
 
 50.	local height=$1
@@ -160,7 +160,7 @@ https://youtu.be/bchyzg-uC8c
 57.	toggleChar="$char"
 58.	}
 
-В.3 {pzpi-23-5-vysotskyi-ihor-task1} GitHub репозиторій: …
+В.3 {pzpi-23-5-vysotskyi-ihor-task1} GitHub репозиторій: https://github.com/NureVysotskyiIhor/smp-pzpi-23-5-vysotskyi-ihor/blob/main/Pract1/smp-pzpi-23-5-vysotskyi-ihor-pract1-code/pzpi-23-5-vysotskyi-ihor-task1 
 65.	layerHeight=$(((usableWidth - 1) / 2))
 66.	fixedTop=4
 67.	variableHeight=$((heightInput - fixedTop))
