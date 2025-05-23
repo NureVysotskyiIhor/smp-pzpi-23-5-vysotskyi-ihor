@@ -189,7 +189,7 @@ https://youtu.be/WPt4Hupnm8g  
  
 ДОДАТОК В
 Програмний код
-В.1 {products.php} GitHub …
+В.1 {products.php} GitHub https://github.com/NureVysotskyiIhor/smp-pzpi-23-5-vysotskyi-ihor/blob/main/Lab3/smp-pzpi-23-5-vysotskyi-ihor-lab3/smp-pzpi-23-5-vysotskyi-ihor-lab3-code/smp-pzpi-23-5-vysotskyi-ihor-task4/products.php
 1.	<?php
 2.	session_start();
 3.	
@@ -262,7 +262,7 @@ https://youtu.be/WPt4Hupnm8g  
 70.	  </footer>
 71.	</body>
 72.	</html>
-В.2 {cart.php} GitHub …
+В.2 {cart.php} GitHub https://github.com/NureVysotskyiIhor/smp-pzpi-23-5-vysotskyi-ihor/blob/main/Lab3/smp-pzpi-23-5-vysotskyi-ihor-lab3/smp-pzpi-23-5-vysotskyi-ihor-lab3-code/smp-pzpi-23-5-vysotskyi-ihor-task4/cart.php
 1.	<?php
 2.	session_start();
 3.	
@@ -332,7 +332,7 @@ https://youtu.be/WPt4Hupnm8g  
 67.	  </footer>
 68.	</body>
 69.	</html>
-В.3 {styles.css} GitHub …
+В.3 {styles.css} GitHub https://github.com/NureVysotskyiIhor/smp-pzpi-23-5-vysotskyi-ihor/blob/main/Lab3/smp-pzpi-23-5-vysotskyi-ihor-lab3/smp-pzpi-23-5-vysotskyi-ihor-lab3-code/smp-pzpi-23-5-vysotskyi-ihor-task4/styles.css
 1.	function getTotal($cart) {
 2.	/* === Основні стилі === */
 3.	body {
