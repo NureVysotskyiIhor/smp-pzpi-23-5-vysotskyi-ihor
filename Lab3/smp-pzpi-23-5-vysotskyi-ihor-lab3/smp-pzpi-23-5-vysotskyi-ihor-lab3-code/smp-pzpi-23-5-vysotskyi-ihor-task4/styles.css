@@ -1,0 +1,101 @@
+/* === Основні стилі === */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f0f0f0;
+  color: #111;
+  margin: 0;
+  padding: 0;
+}
+
+/* === Шапка та підвал === */
+header, footer {
+  background-color: #111;
+  color: #fff;
+  padding: 15px 0;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+nav a:hover {
+  color: #ccc;
+}
+
+/* === Основна частина === */
+main {
+  padding: 30px 20px;
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* === Товари === */
+.product {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  padding: 10px;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  transition: background 0.2s ease;
+}
+
+.product:hover {
+  background: #efefef;
+}
+
+.product-image {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  border: 1px solid #ccc;
+  background: #fff;
+  padding: 5px;
+  border-radius: 8px;
+}
+
+/* === Таблиця кошика === */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 25px;
+  background: #fff;
+}
+
+th, td {
+  border: 1px solid #444;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+}
+
+th {
+  background: #222;
+  color: #fff;
+}
+
+/* === Кнопки === */
+button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background: #222;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.2s ease;
+}
+
+button:hover {
+  background: #444;
+}
